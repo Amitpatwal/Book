@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/amaranth</item>
+        <item>@font/capriola</item>
+        <item>@font/contrail_one</item>
+        <item>@font/francois_one</item>
+        <item>@font/sofia</item>
+        <item>@font/squada_one</item>
+    </array>
+</resources>
